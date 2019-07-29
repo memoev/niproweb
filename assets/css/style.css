@@ -1,0 +1,43 @@
+html body {
+    background: #4682B4;
+}
+
+.navbar {
+   position: fixed;
+   left: 0;
+   top: 0;
+   width: 100%;
+   text-align: center;
+   z-index: 99;
+}
+
+#home-logo {
+    width: 300px;
+    height: 80px;
+}
+
+ul {
+    font-size: 24px;
+}
+
+.jumbotron {
+    position: relative;
+    top: 200px;
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 400px;
+}
+
+footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+   z-index: 99;
+}
+
+p {
+    margin-bottom: 0px;
+}
