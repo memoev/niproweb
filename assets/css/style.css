@@ -36,6 +36,16 @@ ul {
     height: 450px;;
 }
 
+.card-group {
+    position: relative;
+    top: 160px;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 400px;
+    padding: 50px;
+    padding-top: 20px;
+}
+
 footer {
    position: fixed;
    left: 0;
