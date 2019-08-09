@@ -1,2 +1,6 @@
 var vid = document.getElementById("myVideo");
-vid.muted = true;
+
+document.addEventListener("load", function() {
+    vid.muted = true;
+    vid.play();
+})
